@@ -3,8 +3,9 @@
 I make a list according to my personal interests.
 If you would like to recommend some papers, let me know :-)
 
+
 ### Prosody and Text Processing
-- **Prosody Control of Utterance Sequence for Information Delivering**; I. Fukuoka, K. Iwata, T. Kobayashi
+  * **Prosody Control of Utterance Sequence for Information Delivering**; I. Fukuoka, K. Iwata, T. Kobayashi
 
 ### Neural Network Acoustic Models for ASR
 - A Comparison of Sequence-to-Sequence Models for Speech Recognition; Rohit Prabhavalkar 1, Kanishka Rao 1, Tara N. Sainath 1, Bo
