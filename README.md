@@ -1,4 +1,4 @@
-# List of Interesting Papers in Speech Synthesis, Text-to-Speech (TTS)
+# Interesting Papers in Speech Synthesis, Text-to-Speech (TTS)
 
 I make a list according to my personal interests.
 If you would like to recommend some papers, let me know :-)
