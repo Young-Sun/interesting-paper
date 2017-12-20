@@ -30,5 +30,5 @@ J. Yamagishi, NII, Japan
 Rif A. Saurous 1
 
 ### Real-Time Hybrid Unit Selection Synthesis (Google, Apple)
-  * Google’s Next-Generation Real-Time Unit-Selection Synthesizer Using Sequence-to-Sequence LSTM-Based Autoencoders; Google, UK; Univ. of West Bohemia, Czech Republic
-  * Siri On-Device Deep Learning-Guided Unit Selection Text-to-Speech System; Apple, USA
+  * **Google’s Next-Generation Real-Time Unit-Selection Synthesizer Using Sequence-to-Sequence LSTM-Based Autoencoders**; Google, UK; Univ. of West Bohemia, Czech Republic
+  * **Siri On-Device Deep Learning-Guided Unit Selection Text-to-Speech System**; Apple, USA
