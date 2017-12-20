@@ -15,14 +15,8 @@ Navdeep Jaitly 2, 1Google, USA; 2NVIDIA, USA
 ### WaveNet and Novel Paradigms
 - Speaker-Dependent WaveNet Vocoder; Akira Tamamori, Tomoki Hayashi, Kazuhiro Kobayashi, Kazuya Takeda, Tomoki Toda, Nagoya
 University, Japan
-- Waveform Modeling Using Stacked Dilated Convolutional Neural Networks for Speech Bandwidth Extension; Yu Gu, Zhen-Hua Ling,
-USTC, China
-- **Direct Modeling of Frequency Spectra and Waveform Generation Based on Phase Recovery for DNN-Based Speech Synthesis**; Shinji
-Takaki 1, Hirokazu Kameoka 2, Junichi Yamagishi 1
-- A Hierarchical Encoder-Decoder Model for Statistical Parametric Speech Synthesis; Srikanth Ronanki, Oliver Watts, Simon King,
-University of Edinburgh, UK
-- Google’s Next-Generation Real-Time Unit-Selection Synthesizer Using Sequence-to-Sequence LSTM-Based Autoencoders; Vincent
-Wan1, Yannis Agiomyrgiannakis 1, Hanna Silen 1, Jakub Vít 2, 1Google, UK; 2University of West Bohemia, Czech Republic
+- Waveform Modeling Using Stacked Dilated Convolutional Neural Networks for Speech Bandwidth Extension; Yu Gu, Zhen-Hua Ling, USTC, China
+- **Direct Modeling of Frequency Spectra and Waveform Generation Based on Phase Recovery for DNN-Based Speech Synthesis**; Shinji Takaki, Hirokazu Kameoka, Junichi Yamagishi
 
 ### Speech Intelligibility
 - Intelligibilities of Mandarin Chinese Sentences with Spectral “Holes”; Yafan Chen, Yong Xu, Jun Yang, Chinese Academy of Sciences,
