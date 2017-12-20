@@ -28,6 +28,7 @@ J. Yamagishi, NII, Japan
 - Tacotron: Towards End-to-End Speech Synthesis; Yuxuan Wang1, R.J. Skerry-Ryan 1, Daisy Stanton 1, Yonghui Wu1, Ron J. Weiss
 1, Navdeep Jaitly 1, Zongheng Yang 1, Ying Xiao 1, Zhifeng Chen 1, Samy Bengio 1, Quoc Le 1, Yannis Agiomyrgiannakis 2, Rob Clark 2,
 Rif A. Saurous 1
-- Siri On-Device Deep Learning-Guided Unit Selection Text-to-Speech System; Tim Capes, Paul Coles, Alistair Conkie, Ladan Golipour,
-Abie Hadjitarkhani, Qiong Hu, Nancy Huddleston, Melvyn Hunt, Jiangchuan Li, Matthias Neeracher, Kishore Prahallad, Tuomo Raitio,
-Ramya Rasipuram, Greg Townsend, Becci Williamson, David inarsky, Zhizheng Wu, Hepeng Zhang, Apple, USA
+
+### Real-Time Hybrid Unit Selection Synthesis (Google, Apple)
+  * Google’s Next-Generation Real-Time Unit-Selection Synthesizer Using Sequence-to-Sequence LSTM-Based Autoencoders; Google, UK; Univ. of West Bohemia, Czech Republic
+  * Siri On-Device Deep Learning-Guided Unit Selection Text-to-Speech System; Apple, USA
