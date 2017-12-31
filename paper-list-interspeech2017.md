@@ -3,6 +3,9 @@
 I make a list according to my personal interests.
 If you would like to recommend some papers, let me know :-)
 
+### Generative Adversarial Network
+- **SEGAN: Speech Enhancement Generative Adversarial Network**; S. Pascual, A. Bonafonte, J. Serra
+
 ### Prosody and Text Processing
 - **Prosody Control of Utterance Sequence for Information Delivering**; I. Fukuoka, K. Iwata, T. Kobayashi
 
