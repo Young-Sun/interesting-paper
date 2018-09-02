@@ -29,14 +29,3 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 # List to read
 
 ---------------------------------------
-### Generative Adversarial Network
-- **SEGAN: Speech Enhancement Generative Adversarial Network**; S. Pascual, A. Bonafonte, J. Serra
-
-### Prosody and Text Processing
-- **Prosody Control of Utterance Sequence for Information Delivering**; I. Fukuoka, K. Iwata, T. Kobayashi
-
-### Neural Network Acoustic Models for ASR
-- A Comparison of Sequence-to-Sequence Models for Speech Recognition; Rohit Prabhavalkar 1, Kanishka Rao 1, Tara N. Sainath 1, Bo
-Li 1, Leif Johnson 1, Navdeep Jaitly 2, 1Google, USA; 2NVIDIA, USA
-- An Analysis of “Attention” in Sequence-to-Sequence Models; Rohit Prabhavalkar 1, Tara N. Sainath 1, Bo Li 1, Kanishka Rao 1,
-Navdeep Jaitly 2, 1Google, USA; 2NVIDIA, USA
