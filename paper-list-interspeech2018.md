@@ -13,6 +13,10 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 
 - Speaker adaptation, Supervised/Unsupervised learning
   - Multimodal Speech Synthesis Architecture for Unsupervised Speaker Adaptation
+    - Keywords : speaker adaptation, w/o transcription, supervised/unsupervised
+    - Separating SPSS into Text encoder + Speech encoder + Common layers
+    - (supervised learning, w/ transcription) text encoder + common layers
+    - (unsupervised learning, w/ speech only) speech encoder + common layers
 - A cycling training, small data sets
   - DNN-based Speech Synthesis for Small Data Sets Considering Bidirectional Speech-Text Conversion
 - Unit Selection Synthesis - 2
