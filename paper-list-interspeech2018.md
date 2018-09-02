@@ -10,8 +10,9 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 - Voice Conversion with other fields - 2
 - Face
 - Phonemic transcription
-- Speaker adaptation
 
+- Speaker adaptation, Supervised/Unsupervised learning
+  - Multimodal Speech Synthesis Architecture for Unsupervised Speaker Adaptation
 - A cycling training, small data sets
   - DNN-based Speech Synthesis for Small Data Sets Considering Bidirectional Speech-Text Conversion
 - Unit Selection Synthesis - 2
@@ -22,7 +23,7 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 - Multi-lingual / Cross-lingual speech synthesis
 
 # List to categorize after reading papers
-- Multimodal Speech Synthesis Architecture for Unsupervised Speaker Adaptation
+
 - Acoustic-dependent Phonemic Transcription for Text-to-Speech Synthesis
 - Joint Learning of Faicial Expression and Head Pose from Speech
 - The effect of Real-Time Constraints on Automatic Speech Animation
