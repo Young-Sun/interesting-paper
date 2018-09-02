@@ -19,11 +19,9 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
     - (unsupervised learning, w/ speech only) speech encoder + common layers
 - A cycling training, small data sets
   - DNN-based Speech Synthesis for Small Data Sets Considering Bidirectional Speech-Text Conversion
-- Unit Selection Synthesis - 2 / Multi-lingual SS
+- Unit Selection Synthesis (2) / Multi-lingual SS / Articulatory (조음술) (2) / Prosody modeling
 - Acoustic modeling
   - LSTBM, sequence representation of speech spectra
-- Prosody modeling
-- Articulatory (조음술) - 2
 
 # List to categorize after reading papers
 
