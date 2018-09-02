@@ -6,8 +6,9 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 # Categorize papers in each section
 ## Speech Synthesis Paradigms and Methods
 - speech animation???
-- Attention for Multilingual SS
-- Voice Conversion with other fields - 2
+- Voice Conversion (VC) with other fields (2)
+  - VC in patient's speech
+  - VC in audio-visual
 - Face
 
 - Speaker adaptation, Supervised/Unsupervised learning
