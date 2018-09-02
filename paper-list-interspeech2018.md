@@ -1,4 +1,4 @@
-# Interesting papers in INTERSPEECH 2018
+# Interesting papers in INTERSPEECH 2018 (ing)
 
 This list is just depending on my personal interests.
 My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to-end TTS., etc.
@@ -11,17 +11,21 @@ My interests are speech synthesis, emotional TTS, audio-visual, modeling, end-to
 - Face
 - Phonemic transcription
 - Speaker adaptation
-- Acoustic modeling : LSTBM, sequence representation of speech spectra
-- Prosodic contours modeling
+
+- A cycling training, small data sets
+  - DNN-based Speech Synthesis for Small Data Sets Considering Bidirectional Speech-Text Conversion
 - Unit Selection Synthesis - 2
 - Articulatory (조음술) - 2
+- Prosody modeling
+- Acoustic modeling
+  - LSTBM, sequence representation of speech spectra
+- Multi-lingual / Cross-lingual speech synthesis
+
 # List to categorize after reading papers
-- DNN-based Speech Synthesis for Small Data Sets Considering Bidirectional Speech-Text Conversion
 - Multimodal Speech Synthesis Architecture for Unsupervised Speaker Adaptation
 - Acoustic-dependent Phonemic Transcription for Text-to-Speech Synthesis
 - Joint Learning of Faicial Expression and Head Pose from Speech
 - The effect of Real-Time Constraints on Automatic Speech Animation
-- An Investigation of Convolution Attention Based Models for Multilingual Speech Synthesis of Indian Languages
 # List to read
 
 ---------------------------------------
