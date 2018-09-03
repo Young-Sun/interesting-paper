@@ -3,9 +3,6 @@
 This list is just depending on my personal interests.
 My interests are speech synthesis, emotional TTS, speech animation (lip sync), modeling, end-to-end TTS., etc.
 
-# Categorize papers in each section
-
-
 ### Speaker Adaptation
 - Multimodal Speech Synthesis Architecture for Unsupervised Speaker Adaptation; H.-T. Luong and J. Yamagishi
   - Keywords : speaker adaptation, supervised/unsupervised learning, w/o transcription
@@ -27,7 +24,7 @@ My interests are speech synthesis, emotional TTS, speech animation (lip sync), m
 - The effect of Real-Time Constraints on Automatic Speech Animation
   - Keywords : real-time, a trade-off between animation quality and overall latency, BLSTM, future context length
 
-# List to categorize after reading papers
+## List to categorize after reading papers
 
 
 ---------------------------------------
