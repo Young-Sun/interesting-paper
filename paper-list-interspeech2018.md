@@ -23,13 +23,11 @@ My interests are speech synthesis, emotional TTS, speech animation (lip sync), m
   - LSTBM, sequence representation of speech spectra
 
 ### Speech Animation, Lip Sync
+- **Joint Learning of Faicial Expression and Head Pose from Speech**
 - The effect of Real-Time Constraints on Automatic Speech Animation
   - Keywords : real-time, a trade-off between animation quality and overall latency, BLSTM, future context length
 
 # List to categorize after reading papers
-- Joint Learning of Faicial Expression and Head Pose from Speech
 
-
-# List to read
 
 ---------------------------------------
